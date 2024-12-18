@@ -1,1 +1,2 @@
 "Hello, this is my submission for Git class!" 
+"It is a dark time for the Rebellion." 
