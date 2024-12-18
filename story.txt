@@ -1,2 +1,3 @@
-"Hello, this is my submission for Git class!" 
-"It is a dark time for the Rebellion." 
+It is a dark time for the Rebellion.
+Turmoil has engulfed the Galactic Republic.
+
